@@ -27,7 +27,7 @@ update_download_state(
 a updated table
 }
 \description{
-Update data info of SRA summary tables
+check_vdb can be generates by `vdb-validate path /storage/SRP010990 2> check_vdb_mini.log`
 }
 \examples{
 \dontrun{

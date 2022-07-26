@@ -1,5 +1,7 @@
 #' Update data info of SRA summary tables
 #'
+#' check_vdb can be generates by `vdb-validate path /storage/SRP010990 2> check_vdb_mini.log`
+#'
 #' @param cells_table cells_table path
 #' @param accessions_table accessions_table path
 #' @param check_vdb result from vdb-validate
